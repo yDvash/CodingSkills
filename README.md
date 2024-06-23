@@ -13,9 +13,10 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 If you have any questions, suggestions, or feedback, feel free to contact:
 
-- **Yarden Dvash**  
+- **Yarden Dvash**
     - [Mail](mailto:Yardeniko@gmail.com)
-    - [Twitter/X](https://x.com/yarden_dvash)
+    - [Twitter](https://x.com/yarden_dvash)
+    - [Linkedin](https://www.linkedin.com/in/ydvash/)
     
 - **GitHub Issues**: [https://github.com/yDvash/CodingSkills/issues](https://github.com/yDvash/CodingSkills/issues)
 
